@@ -13,3 +13,6 @@ Bhilwara CodeLab official website
 9. Now to apply your commits on the top of the fetched upstream master, use ```git rebase upstream/master```
 10. Now to push to your own forked repo, use ```git push -f origin master```
 11. Now ```create a new pull request``` and send it for review
+
+## License
+Bhilwara-CodeLab is licensed under the MIT License. Please read more about the LICENSE[https://github.com/Bhilwara-CodeLab/Bhilwara-CodeLab/blob/master/LICENSE] 
