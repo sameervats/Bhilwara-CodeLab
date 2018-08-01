@@ -15,4 +15,4 @@ Bhilwara CodeLab official website
 11. Now ```create a new pull request``` and send it for review
 
 ## License
-Bhilwara-CodeLab is licensed under the MIT License. Please read more about the LICENSE[https://github.com/Bhilwara-CodeLab/Bhilwara-CodeLab/blob/master/LICENSE] 
+Bhilwara-CodeLab is licensed under the MIT License. Please read more about the [LICENSE](https://github.com/Bhilwara-CodeLab/Bhilwara-CodeLab/blob/master/LICENSE)
